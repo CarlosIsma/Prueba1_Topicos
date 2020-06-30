@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "825394899454",
+    "firebase_url": "https://appimc-88bb4.firebaseio.com",
+    "project_id": "appimc-88bb4",
+    "storage_bucket": "appimc-88bb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825394899454:android:c1678812e6123f36cbf8af",
+        "android_client_info": {
+          "package_name": "com.example.appimc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825394899454-3fpfcle2c9frr9lvqpsa8ult717bn8re.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appimc",
+            "certificate_hash": "b16f607a9fe83d74bd8f38cb38ca2cbef2249978"
+          }
+        },
+        {
+          "client_id": "825394899454-vmkrf9c8r1gr45hplsu6jf3h3do5sd76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqcG9Xtlh_uqY0YIUlaFT6ZfB0UxsK2Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825394899454-vmkrf9c8r1gr45hplsu6jf3h3do5sd76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
